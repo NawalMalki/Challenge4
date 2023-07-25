@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click here to see]([https://your-live-site-url.com](https://challenge4-psi.vercel.app/?vercelToolbarCode=l2hCdRo5QcvrrdJ)
+- Live Site URL: [Click here to see](https://challenge4-psi.vercel.app/?vercelToolbarCode=l2hCdRo5QcvrrdJ)
 
 ## My process
 
