@@ -29,7 +29,6 @@ Users should be able to:
 ### Screenshot
 
 
-<h4>Desktop design </h4>
 ![image](https://github.com/NawalMalki/Challenge4/assets/114352448/1b6b8d2f-9344-43be-82da-442980816d20)
 
 
@@ -42,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click here to see]([https://your-live-site-url.com](https://challenge4-psi.vercel.app/?vercelToolbarCode=l2hCdRo5QcvrrdJ))
+- Live Site URL: [Click here to see]([https://your-live-site-url.com](https://challenge4-psi.vercel.app/?vercelToolbarCode=l2hCdRo5QcvrrdJ)
 
 ## My process
 
