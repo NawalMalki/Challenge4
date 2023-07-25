@@ -30,11 +30,14 @@ Users should be able to:
 
 
 <h4>Desktop design </h4>
-![image](https://github.com/NawalMalki/Challenge4/assets/114352448/469a089c-397e-453d-adcb-772bc15b4bf6)
+![image](https://github.com/NawalMalki/Challenge4/assets/114352448/1b6b8d2f-9344-43be-82da-442980816d20)
 
 
-<h4>Mobile design</h4>
-![image](https://github.com/NawalMalki/Challenge4/assets/114352448/2e5bfc8b-3120-4e10-a1d6-20c25ab06890)
+
+
+
+
+
 
 
 ### Links
